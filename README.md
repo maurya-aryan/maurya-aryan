@@ -1,4 +1,4 @@
-<h1 align="center"> Siddhartha </h1>
+<h1 align="center"> Aryan Maurya </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=LeetCode+Daily+Grinder;DSA+%7C+DBMS+%7C+ML;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Building+Fundamentals+%F0%9F%94%A5" />
